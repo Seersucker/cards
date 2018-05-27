@@ -3,3 +3,7 @@ pytest
 coverage
 tox
 flake8
+click
+dataclasses
+tinydb
+tabular
